@@ -1,7 +1,7 @@
 local options = {
 	ma = true,
 	mouse = "a",
-	cursorline = true,
+	cursorline = false,
 	tabstop = 4,
 	shiftwidth = 4,
 	softtabstop = 4,
